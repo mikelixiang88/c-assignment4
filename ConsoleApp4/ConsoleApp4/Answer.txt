@@ -1,0 +1,20 @@
+1.  Generics addresses the problem of code duplication and type safety. With generics 
+    our method can operate on any data type
+    
+2.  List<string> listOfStrings = new List<string>();
+
+3.  Two. One for key and one for value
+
+4.  False
+
+5.  The Add method
+
+6.  Remove and RemoveAt
+
+7.  By appending <T> in the declaration
+
+8.  False
+
+9.  True
+
+10. True
